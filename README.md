@@ -1,4 +1,4 @@
-# angular-form-errors
+# nebo-form-errors
 
 Get error object from From Controller. It could be useful for login for errors. eg, sending errors to mixpanel on submit form.
 
