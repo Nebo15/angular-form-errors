@@ -1,14 +1,14 @@
 {
-  "name": "angular-form-errors",
+  "name": "nebo-form-errors",
   "version": "1.0.0",
   "description": "Helper for getting errors from form object.",
-  "main": "angular-form-errors.js",
+  "main": "nebo-form-errors.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nebo15/angular-form-errors.git"
+    "url": "git+https://github.com/Nebo15/nebo-form-errors.git"
   },
   "keywords": [
     "angularjs",
@@ -18,7 +18,7 @@
   "author": "Alexey Bondarenko <bondalex.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nebo15/angular-form-errors/issues"
+    "url": "https://github.com/Nebo15/nebo-form-errors/issues"
   },
-  "homepage": "https://github.com/Nebo15/angular-form-errors#readme"
+  "homepage": "https://github.com/Nebo15/nebo-form-errors#readme"
 }

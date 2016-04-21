@@ -1,7 +1,7 @@
 {
-  "name": "angular-form-errors",
+  "name": "nebo-form-errors",
   "description": "Helper for getting errors from form object.",
-  "main": "angular-form-errors.js",
+  "main": "nebo-form-errors.js",
   "authors": [
     "Alexey Bondarenko <bondalex.com>"
   ],
@@ -11,7 +11,7 @@
     "form",
     "errors"
   ],
-  "homepage": "https://github.com/Nebo15/angular-form-errors",
+  "homepage": "https://github.com/Nebo15/nebo-form-errors",
   "moduleType": [],
   "ignore": [
     "**/.*",

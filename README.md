@@ -7,7 +7,7 @@ Get error object from From Controller. It could be useful for login for errors. 
 Install bower package
 
 ```
-bower install angular-form-errors --save
+bower install nebo-form-errors --save
 ```
 
 Add to application module. 
