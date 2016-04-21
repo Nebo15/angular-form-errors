@@ -1,0 +1,23 @@
+{
+  "name": "angular-form-errors",
+  "description": "Helper for getting errors from form object.",
+  "main": "angular-form-errors.js",
+  "authors": [
+    "Alexey Bondarenko <bondalex.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs",
+    "form",
+    "errors"
+  ],
+  "homepage": "https://github.com/Nebo15/angular-form-errors",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

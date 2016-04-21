@@ -1,0 +1,24 @@
+{
+  "name": "angular-form-errors",
+  "version": "1.0.0",
+  "description": "Helper for getting errors from form object.",
+  "main": "angular-form-errors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebo15/angular-form-errors.git"
+  },
+  "keywords": [
+    "angularjs",
+    "form",
+    "errors"
+  ],
+  "author": "Alexey Bondarenko <bondalex.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nebo15/angular-form-errors/issues"
+  },
+  "homepage": "https://github.com/Nebo15/angular-form-errors#readme"
+}
