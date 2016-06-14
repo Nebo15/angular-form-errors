@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Nebo15/nebo-form-errors/issues"
   },
-  "homepage": "https://github.com/Nebo15/nebo-form-errors#readme"
+  "homepage": "https://github.com/Nebo15/nebo-form-errors#readme",
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
 }
